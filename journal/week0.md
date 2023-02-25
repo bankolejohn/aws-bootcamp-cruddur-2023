@@ -30,3 +30,7 @@ I entered the commmand: **aws sts get-caller-identity**
 ![Screenshot 2023-02-25 034336](https://user-images.githubusercontent.com/76499525/221332263-ebc98409-d238-40b3-879b-55c5739041db.png)
 
 **Note that the account id here is not what I am using for the bootcamp. I had earlier configured this CLI to use a different account**
+
+### Create a billing alarm
+
+### Create a budget 
