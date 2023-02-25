@@ -6,7 +6,7 @@
 ![Screenshot 2023-02-19 154602](https://user-images.githubusercontent.com/76499525/219990622-c5bc7712-13c8-4490-86a1-c27cac117b11.png)
 
 ## AWS CLI installed on gitpod successfully using the code below: 
-##curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
+##  curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
 unzip awscliv2.zip
 sudo ./aws/install
 
