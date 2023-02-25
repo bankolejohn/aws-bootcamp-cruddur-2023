@@ -22,3 +22,4 @@ To confirm the installation, open the Start menu, search for cmd to open a comma
 
 aws --version
 
+![Screenshot 2023-02-25 033341](https://user-images.githubusercontent.com/76499525/221332030-4027ddb3-faa2-4ae5-b649-e41d7f16c6b0.png)
