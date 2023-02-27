@@ -34,6 +34,9 @@ I entered the commmand: **aws sts get-caller-identity**
 ### i created a logical diagram for the cruddur app using lucid chart
 
 https://lucid.app/lucidchart/286406e3-afa3-40b8-aec2-12522a66780e/edit?viewport_loc=74%2C156%2C2184%2C954%2C0_0&invitationId=inv_a8adde70-1c0b-41a6-8e37-11125ac13ec6
+![Screenshot 2023-02-27 012404](https://user-images.githubusercontent.com/76499525/221446850-c820f197-cef5-4b1c-a956-6685c7b7aa5d.png)
+
+
 
 ### challenges when creating the logical diagram
 
