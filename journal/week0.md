@@ -31,6 +31,14 @@ I entered the commmand: **aws sts get-caller-identity**
 
 **Note that the account id here is not what I am using for the bootcamp. I had earlier configured this CLI to use a different account**
 
+### i created a logical diagram for the cruddur app using lucid chart
+
+https://lucid.app/lucidchart/286406e3-afa3-40b8-aec2-12522a66780e/edit?viewport_loc=74%2C156%2C2184%2C954%2C0_0&invitationId=inv_a8adde70-1c0b-41a6-8e37-11125ac13ec6
+
+### challenges when creating the logical diagram
+
+I wasn't able to create the momento logo
+
 ### Create a billing alarm
 
 ### Create a budget 
