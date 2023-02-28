@@ -44,4 +44,7 @@ I wasn't able to create the momento logo
 
 ### Create a billing alarm
 
+I created a billing alarm
+
 ### Create a budget 
+i created a budget
