@@ -15,11 +15,11 @@ And run the docker build command
 
 ## Build container
 
-docker build -t  backend-flask ./backend-flask
+    docker build -t  backend-flask ./backend-flask
 
 ## Run the container
 
-docker run --rm -p 4567:4567 -it backend-flask
+    docker run --rm -p 4567:4567 -it backend-flask
 
 App not running
 
@@ -27,8 +27,22 @@ Set the environment variables.... app still not runnning
 
 Goto the container and attach shell
 
-### set environment variables
+### set environment variables in the run command 
 
-docker run --rm -p 4567:4567 -it -e FRONTEND_URL='*' -e BACKEND_URL='*' backend-flask
+    docker run --rm -p 4567:4567 -it -e FRONTEND_URL='*' -e BACKEND_URL='*' backend-flask
 
-otherwise you will keep getting the 404 error.
+Note: To run the container in the background append '-d' before the image
+
+### containerise the frontend
+
+Navigate to the frontend directory
+
+Create a docker-compose.yml file which would allow one to run multiple containers at the same time
+
+After which you run the docker-compose up command 
+
+After the process you get to access the app in  a more beautiful way.
+
+so exciting to have gotten to this stage
+
+
