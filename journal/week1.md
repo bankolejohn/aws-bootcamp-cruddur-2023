@@ -13,4 +13,8 @@ Then unset the environment variables.
 Then navigate to the root folder
 And run the docker build command 
 
+## Build container
+
+docker build -t  backend-flask ./backend-flask
+
 otherwise you will keep getting the 404 error.
