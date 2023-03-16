@@ -17,4 +17,18 @@ And run the docker build command
 
 docker build -t  backend-flask ./backend-flask
 
+## Run the container
+
+docker run --rm -p 4567:4567 -it backend-flask
+
+App not running
+
+Set the environment variables.... app still not runnning
+
+Goto the container and attach shell
+
+### set environment variables
+
+docker run --rm -p 4567:4567 -it -e FRONTEND_URL='*' -e BACKEND_URL='*' backend-flask
+
 otherwise you will keep getting the 404 error.
