@@ -48,3 +48,10 @@ so exciting to have gotten to this stage
 ![Screenshot 2023-03-16 034814](https://user-images.githubusercontent.com/76499525/225499217-51878c1f-9784-4ca1-be9e-e85a13df59eb.png)
 
 ## Backend and Frontend notifications
+updated the backend 
+![Screenshot 2023-03-05 074027](https://user-images.githubusercontent.com/76499525/229491907-012e62ea-0bd3-45d6-8132-508edd824290.png)
+
+
+### Uploaded image to dockerhub
+image name: containerofcats
+![Screenshot 2023-04-03 114038](https://user-images.githubusercontent.com/76499525/229491771-65b0d9a7-715d-48e7-9c5d-d566a1a744ef.png)
